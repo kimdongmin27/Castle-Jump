@@ -14,11 +14,13 @@ TagManager:
   - Coin
   - PlayerRay
   - Rocket
+  - Lazer
+  - Character
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Space Ship
   - Water
   - UI
   - 

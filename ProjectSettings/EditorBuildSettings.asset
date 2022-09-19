@@ -4,4 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/2D Shooting.unity
+    guid: c0d9d25baa4e43046a5c12ed08457f06
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 558feb7d0f31d374d94b87f75e8fba4e,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 11d658745970f134f863cabd39db4f66,
+      type: 2}
